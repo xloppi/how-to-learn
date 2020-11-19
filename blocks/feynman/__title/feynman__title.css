@@ -1,0 +1,8 @@
+.feynman__title {
+  /*Высота строки 1.15, размер шрифта 120px, начертание шрифта полужирное*/
+  line-height: 1.15;
+  font-size: 120px;
+  font-weight: bold;
+  width: 648px;
+  margin: 0px;
+}

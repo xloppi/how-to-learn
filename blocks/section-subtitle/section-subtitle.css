@@ -1,0 +1,9 @@
+.section-subtitle {
+  /*Высота строки 34px, шрифта 24px, начертание шрифта нормальное*/
+  width: 60%;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+  text-align: center;
+  margin: 0;
+}

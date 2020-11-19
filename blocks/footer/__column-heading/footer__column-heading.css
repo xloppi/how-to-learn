@@ -1,0 +1,7 @@
+.footer__column-heading {
+  /*Высота строки 30px, размер шрифта 18px, начертание шрифта полужирное*/
+  margin: 0px;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: bold;
+}
