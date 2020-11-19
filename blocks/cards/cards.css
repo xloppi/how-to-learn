@@ -5,6 +5,5 @@
   width: 920px;
   list-style-type: none;
   grid-template-columns: repeat(3, 1fr);
-  grid-template-rows: repeat(2, 1fr);
   column-gap: 100px;
 }
